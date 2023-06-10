@@ -1,0 +1,11 @@
+# NotificationSettingsInput
+
+
+## Fields
+
+| Field                                                                             | Type                                                                              | Required                                                                          | Description                                                                       |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| `incomingMeldFrequency`                                                           | [IncomingMeldFrequencyEnum](../../models/shared/IncomingMeldFrequencyEnum.md)     | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `smsNotifications`                                                                | *Boolean*                                                                         | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `successfulMeldFrequency`                                                         | [SuccessfulMeldFrequencyEnum](../../models/shared/SuccessfulMeldFrequencyEnum.md) | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `timezone`                                                                        | [TimezoneEnum](../../models/shared/TimezoneEnum.md)                               | :heavy_minus_sign:                                                                | N/A                                                                               |

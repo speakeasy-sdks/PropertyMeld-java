@@ -1,0 +1,20 @@
+# PatchedPropertyInput
+
+
+## Fields
+
+| Field                 | Type                  | Required              | Description           |
+| --------------------- | --------------------- | --------------------- | --------------------- |
+| `city`                | *String*              | :heavy_minus_sign:    | N/A                   |
+| `country`             | *String*              | :heavy_minus_sign:    | N/A                   |
+| `countyProvince`      | *String*              | :heavy_minus_sign:    | N/A                   |
+| `line1`               | *String*              | :heavy_minus_sign:    | N/A                   |
+| `line2`               | *String*              | :heavy_minus_sign:    | N/A                   |
+| `line3`               | *String*              | :heavy_minus_sign:    | N/A                   |
+| `maintenanceNotes`    | *String*              | :heavy_minus_sign:    | N/A                   |
+| `otherAddressDetails` | *String*              | :heavy_minus_sign:    | N/A                   |
+| `owners`              | List<*Long*>          | :heavy_minus_sign:    | N/A                   |
+| `postcode`            | *String*              | :heavy_minus_sign:    | N/A                   |
+| `propertyGroups`      | List<*Long*>          | :heavy_minus_sign:    | N/A                   |
+| `propertyName`        | *String*              | :heavy_minus_sign:    | N/A                   |
+| `units`               | List<*Long*>          | :heavy_minus_sign:    | N/A                   |

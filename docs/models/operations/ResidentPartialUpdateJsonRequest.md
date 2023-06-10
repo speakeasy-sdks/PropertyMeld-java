@@ -1,0 +1,9 @@
+# ResidentPartialUpdateJsonRequest
+
+
+## Fields
+
+| Field                                                                                                  | Type                                                                                                   | Required                                                                                               | Description                                                                                            |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| `patchedResidentInput`                                                                                 | [PropertyMeld.MeldAPI.models.shared.PatchedResidentInput](../../models/shared/PatchedResidentInput.md) | :heavy_minus_sign:                                                                                     | N/A                                                                                                    |
+| `id`                                                                                                   | *String*                                                                                               | :heavy_check_mark:                                                                                     | N/A                                                                                                    |

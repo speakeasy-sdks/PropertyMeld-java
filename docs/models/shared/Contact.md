@@ -1,0 +1,17 @@
+# Contact
+
+
+## Fields
+
+| Field                                                            | Type                                                             | Required                                                         | Description                                                      |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| `businessPhone`                                                  | *String*                                                         | :heavy_minus_sign:                                               | Home phone number. Must be in E.164 format, e.g. '+14155552671'. |
+| `businessPhoneExt`                                               | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |
+| `cellPhone`                                                      | *String*                                                         | :heavy_minus_sign:                                               | Home phone number. Must be in E.164 format, e.g. '+14155552671'. |
+| `cellPhoneExt`                                                   | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |
+| `fax`                                                            | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |
+| `homePhone`                                                      | *String*                                                         | :heavy_minus_sign:                                               | Home phone number. Must be in E.164 format, e.g. '+14155552671'. |
+| `homePhoneExt`                                                   | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |
+| `primaryEmail`                                                   | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |
+| `secondaryEmail`                                                 | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |
+| `tertiaryEmail`                                                  | *String*                                                         | :heavy_minus_sign:                                               | N/A                                                              |

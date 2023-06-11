@@ -6,7 +6,7 @@
 ### Gradle
 
 ```groovy
-implementation 'PropertyMeld.MeldAPI:MeldAPI:1.1.0'
+implementation 'PropertyMeld.MeldAPI:MeldAPI:1.1.1'
 ```
 <!-- End SDK Installation -->
 
